@@ -10,7 +10,7 @@ This repo consists of notebooks and scripts which cover chunk of ML topics reffe
 
 ## INDEX  
 
-    00) Baiscs of python which are quite tricky 
+    00) Baiscs of python which are quite tricky (for me :p) 
     01) Types of Analysis 
     02) Ridge and Lasso Linear regression 
     03) Multi-variate Linear regression 
